@@ -12,4 +12,10 @@ The following is an assortment of young researchers I've had the pleasure of int
 If you have recommendations on more young researchers to follow, __especially members of underrepresented groups__, please [shoot me your recommendations](mailto:jessica.finocchiaro@colorado.edu)!
 
 =====
-* Fill in here
+This list is in no particular order, expect possibly alphabetical.
+  * [Gabriel P. Andrade](gpandrade.github.io)
+  * [Ezra Goss](https://www.linkedin.com/in/ezra-goss/)
+  * [Dhamma Kimpara](https://nsmallsteps.wordpress.com/)
+  * [Wade Hann-Caruthers](http://www.its.caltech.edu/~whanncar/)
+  * [Chara Podimata](https://www.charapodimata.com/)
+  * [Duncan McElfresh](http://www.cs.umd.edu/~dmcelfre/)
