@@ -7,53 +7,57 @@ redirect_from:
   - /resume
 ---
 
+[Download](../files/finocchiaro-cv.pdf).
+
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Computer Science Florida Southern College, 2017
+* Ph.D in Computer Science, University of Colorado, Boulder, 2017-present
 
-Work experience
+Keywords
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Property Elicitation, Proper Scoring Rules, Surrogate Loss Functions
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Graduate Research Assistant, Summer 2017-present
+  * Working under Dr. Rafael Frongillo at CU Boulder
+  * Working on the design of Fisher consistent surrogate loss functions
+
+* Undergraduate Research Assistant, August 2016 - May 2017
+  * Worked with Dr. H. David Mathias at Florida Southern College
+  * Created and empirically tested a model to test if optimizing for mutual cooperation improves overall performance in the Iterated Prisoner's Dilemma game.
+
+* Undergraduate Research Assistant, Summer 2016
+  * Worked with Dr. Ali Borji at University of Central Florida
+  * Used Machine Learning to predict the height of an egocentric (first-person) camera off the ground.
+
+Awards and Fellowships
+=====
+*NSF GRFP
+*ACM EC AGTMW Grant
+*JMM Student Travel Grant
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* CU Boulder Graduate Student Association Vice Chair (Feb 2018-present)
