@@ -36,9 +36,9 @@ Research experience
 
 Awards and Fellowships
 =====
-*NSF GRFP
-*ACM EC AGTMW Grant
-*JMM Student Travel Grant
+* National Science Foundation Graduate Research Fellowship (2019 - ~2022)
+* ACM Conference on Economics and Computation Algorithmic Game Theory Mentoring Workshop Grant (2018, 2019)
+* Joint Meeting in Mathematics Student Travel Grant (2017)
 
 Publications
 ======
@@ -60,4 +60,6 @@ Teaching
 
 Service and leadership
 ======
+* Women in Machine Learning (WiML) Reviewer 2019
 * CU Boulder Graduate Student Association Vice Chair (Feb 2018-present)
+* Discovery Learning Apprenticeship Graduate mentor (January-April 2018)
