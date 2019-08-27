@@ -4,7 +4,6 @@ date: 2019-08-27
 permalink: /ucd-blog/intro
 tags:
   - ucd-blog
-  - intro
 teaser: "Intro post for the blog for CSCI 5839 User-Centered Design"
 ---
 ## Introduction
@@ -13,5 +12,5 @@ _Hi, I'm Jessie._  My pronouns are she/her and I'm starting my 3rd year in the [
 
 This blog will be maintained for CSCI 5839 (User-Centered Design) at CU Boulder in Fall 2019.
 
-![alt text](../images/boone.jpg "Me and Boone" | width = 100)
-![alt text](../images/rockymountain.jpg "Hanging out with some friends from undergrad at RMNP" | width=100)
+![alt text](../images/boone.jpg "Me and Boone")
+![alt text](../images/rockymountain.jpg "Hanging out with some friends from undergrad at RMNP")
