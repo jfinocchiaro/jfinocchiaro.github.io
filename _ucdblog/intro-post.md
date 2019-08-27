@@ -4,7 +4,7 @@ date: 2019-08-27
 permalink: /ucd-blog/intro
 tags:
   - ucd-blog
-teaser: "Intro post for the blog for CSCI 5839 User-Centered Design"
+teaser: Intro post for the blog for CSCI 5839 User-Centered Design
 ---
 ## Introduction
 ---
