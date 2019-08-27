@@ -13,5 +13,5 @@ _Hi, I'm Jessie._  My pronouns are she/her and I'm starting my 3rd year in the [
 
 This blog will be maintained for CSCI 5839 (User-Centered Design) at CU Boulder in Fall 2019.
 
-![alt text](../images/boone.jpg "Me and Boone" =100x)
-![alt text](../images/rockymountain.jpg "Hanging out with some friends from undergrad at RMNP" =100x)
+![alt text](../images/boone.jpg "Me and Boone" | width = 100)
+![alt text](../images/rockymountain.jpg "Hanging out with some friends from undergrad at RMNP" | width=100)
