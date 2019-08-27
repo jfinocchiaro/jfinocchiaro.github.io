@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: "UCD Class Blog"
-permalink: /ucd-blog/
+permalink: /ucdblog/
 author_profile: true
 ---
-
 
 {% include base_path %}
 
