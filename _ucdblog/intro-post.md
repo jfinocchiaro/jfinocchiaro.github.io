@@ -5,6 +5,7 @@ permalink: /ucd-blog/intro
 tags:
   - ucd-blog
   - intro
+teaser: "Intro post for the blog for CSCI 5839 User-Centered Design"
 ---
 ## Introduction
 ---
