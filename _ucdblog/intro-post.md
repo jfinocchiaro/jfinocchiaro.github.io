@@ -1,10 +1,10 @@
 ---
-title: 'Introductory post'
+title: "Introductory post"
 date: 2019-08-27
 permalink: /ucdblog/intro
 tags:
   - ucd-blog
-teaser: Intro post for the blog for CSCI 5839 User-Centered Design
+teaser: "Intro post for the blog for CSCI 5839 User-Centered Design"
 ---
 ## Introduction
 ---
