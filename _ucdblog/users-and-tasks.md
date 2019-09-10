@@ -46,4 +46,4 @@ I think most importantly for this section of the class, they also discuss differ
 
 My research is in CS Theory, so task modeling is something new to me.  I figured I would write a task model on writing a CS theory paper, with a few satirical steps thrown in.  (ex: 3.1)
 
- ![alt text](../images/ucdblog/task-model.png "Task model for a CS Theory paper")
+![alt text](../images/ucdblog/task-model.png "Task model for a CS Theory paper")
