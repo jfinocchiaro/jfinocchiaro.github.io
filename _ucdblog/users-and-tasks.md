@@ -1,5 +1,5 @@
 ---
-title: "Users and tasks
+title: "Users and tasks"
 date: 2019-09-08
 permalink: /ucdblog/users-and-tasks
 tags:
@@ -20,7 +20,7 @@ For example, my frustration can be reflected in the [Gender Shades](http://gende
 
 Here's a [Twitter post](https://twitter.com/jessie_fin/status/1170148339897094144?s=20), with some intriguing responses on my thoughts on stereotyping in personas.
 
-![alt text](../images/ucdblog/xkcd-launch-toon.jpg "XKCD")
+![alt text](../images/ucdblog/xkcd-launch-toon.png "XKCD")
 
 ### Task Analysis
 
