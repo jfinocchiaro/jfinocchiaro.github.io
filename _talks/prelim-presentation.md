@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/prelim-presentation
 venue: "Preliminary PhD Exam"
-date: 2018-06-25
+date: 2019-10-10
 location: "Boulder, CO"
 ---
 
