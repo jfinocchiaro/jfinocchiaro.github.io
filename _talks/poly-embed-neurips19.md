@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/neurips-18-continuous-props
 venue: "Neural Information Processing Systems 2019"
-date: 2018-12-10
+date: 2019-12-10
 location: "Vancouver, Canada"
 ---
 
