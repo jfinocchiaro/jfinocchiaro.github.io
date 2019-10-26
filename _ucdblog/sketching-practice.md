@@ -10,8 +10,8 @@ teaser: "Sketching practice"
 ---
 
 The first practice sketch we had was for an App to share your location with friends.
-![alt text](../images/sketching-practice-location-sharing.png "Location sharing sketching")
+![alt text](../images/ucdblog/sketching-practice-location-sharing.png "Location sharing sketching")
 
 
 The second object we practiced sketching was another version of the good ole' Apple TV remote from day 1.
-![alt text](../images/sketching-practice-apple-tv.png "Apple TV sketching practice")
+![alt text](../images/ucdblog/sketching-practice-apple-tv.png "Apple TV sketching practice")

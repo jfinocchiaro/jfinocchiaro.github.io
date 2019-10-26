@@ -13,4 +13,4 @@ As a table, we brainstormed some personas of potential users for the Google VR h
 
 Notes are attached, but three of my favorite personas that actually got fleshed out were Jeremy, Sheila, and Landon.
 
-![alt text](../images/google-vr-persona-notes.png "Google VR Headset persona notes")
+![alt text](../images/ucdblog/google-vr-persona-notes.png "Google VR Headset persona notes")
