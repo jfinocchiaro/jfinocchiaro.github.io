@@ -16,5 +16,7 @@ Before starting graduate school at CU, I didn't feel like I knew anyone who had 
 
 Last year, I was interviewed for our department get-to-know-you, and got to sit down with my good friend Izzy for a [nice chat](https://izabelpaguiar.com/JessieFinn/).
 
+In my free time, I get to play soccer with the [CU Women's Club Soccer Team](https://cusoccer.net) as well.
+
 ---
 Thank you to the [academicpages template](https://github.com/academicpages/academicpages.github.io), who let me fork their website template.
