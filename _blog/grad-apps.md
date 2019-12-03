@@ -12,7 +12,7 @@ tags:
   * How much I do not miss applying to graduate programs.
 
   With that, and it being graduate application season, I figured I would offer some unsolicited suggestions for applying to graduate programs.  (For context: I am an American student at an American university, so I am not as familiar with the Visa process, TOEFL, or any of the other ridiculous hoops my international friends often have to jump through.)  Also, here is a [twitter thread](https://twitter.com/jessie_fin/status/1201719502934667265?s=20) to some advice from the Twitterverse in case you want to hear others' opinions!
----
+======
 
 ### Writing personal statements
 Be yourself!  This is basically the only opportunity in most applications to share who you are.  Most conversations I have had with application reviewers (faculty and staff) about personal statements have led me to believe that it is pretty easy to tell if someone didn't actually write their own personal statement.  
