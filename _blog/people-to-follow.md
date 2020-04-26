@@ -1,6 +1,6 @@
 ---
 title: 'Researchers to follow'
-date: 2019-09-21
+date: 2020-04-26
 permalink: /blog/people-to-follow
 tags:
   - researchers
@@ -16,9 +16,12 @@ This list is in no particular order, expect possibly alphabetical.
   * [Gabriel P. Andrade](gpandrade.github.io): Graphical economies, exchange dynamics
   * [Paul Gölz](https://paulgoelz.de/): Voting rules, Computational Social Choice, Algorthmic fairness
   * [Ezra Goss](https://www.linkedin.com/in/ezra-goss/): Differential privacy, algorthmic fairness
-  * [Dhamma Kimpara](https://nsmallsteps.wordpress.com/): StatML
   * [Wade Hann-Caruthers](http://www.its.caltech.edu/~whanncar/): Esoteric (by request), Voting rules
+  * [Dhamma Kimpara](https://nsmallsteps.wordpress.com/): StatML
+  * [Roland Maio](https://rolandmaio.github.io/): Algorithmic fairness, computing and society
+  * [Duncan McElfresh](http://www.cs.umd.edu/~dmcelfre/): Mechanism Design, Kidney exchange, Optimization
+  * [Faidra Monachou](https://msande.stanford.edu/people/faidra-georgia-monachou): Discrimination in labor markets
   * [Chara Podimata](https://www.charapodimata.com/): StatML, EconCS, Strategyproofness
-  * [Duncan McElfresh](http://www.cs.umd.edu/~dmcelfre/): Mechanism Design without prices, Kidney exchange
   * [Manish Raghavan](http://www.cs.cornell.edu/~manish/): Algorithmic fairness, behavioral economics
+  * [Ana-Andreea Stoica](http://www.columbia.edu/~as5001/): Algorithmic bias, Social Networks, Graph Theory
   * [Briana Vecchione](https://brianavecchione.com/): Algorithmic bias, Algorithmic discrimination
