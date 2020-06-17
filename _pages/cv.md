@@ -42,24 +42,27 @@ Awards and Fellowships
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Service and leadership
 ======
+* Program Committee Mechanism Design For Social Good (MD4SG) Workshop 2020
+* Program Committee AI For Social Good (AI4SG) Workshop 2020
+* Neural Information Processing Systems (NeurIPS) 2020
 * Women in Machine Learning (WiML) Reviewer 2019
 * CU Boulder Graduate Student Association Vice Chair (Feb 2018-present)
 * Discovery Learning Apprenticeship Graduate mentor (January-April 2018)
