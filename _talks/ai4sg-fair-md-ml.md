@@ -11,3 +11,5 @@ location: "Virtual"
 The slides from the workshop talk.
 
 [Talk slides](../files/ai4sg-workshop-presentation-fair-md-ml.pdf)
+
+[Poster](../files/ai4sg-fair-ml-md-poster.pdf)
