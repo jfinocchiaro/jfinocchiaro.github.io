@@ -8,7 +8,7 @@ relative height (tall, medium or short) up to 93.75% where chance level is 33%.'
 date: 2017-03-20
 venue: 'Winter Conference on Applications in Computer Vision (WACV)'
 paperurl: 'https://arxiv.org/pdf/1610.02714.pdf'
-citation: 'Jessica Finocchiaro, Aisha Urooj Khan, and Ali Borji. (2017). &quot;Egocentric Height Estimation.&quot; <i>IEEE Winter Conference on Applications in Computer Vision</i>.'
+<!---citation: 'Jessica Finocchiaro, Aisha Urooj Khan, and Ali Borji. (2017). &quot;Egocentric Height Estimation.&quot; <i>IEEE Winter Conference on Applications in Computer Vision</i>.' -->
 ---
 
 [arXiv](https://arxiv.org/pdf/1610.02714.pdf)
