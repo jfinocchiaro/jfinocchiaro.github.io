@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jessie Finocchiaro"
   avatar           : "headshot-zoomed.png"
-  bio              : "3rd year PhD student in CS Theory"
+  bio              : "4th year PhD student in CS Theory"
   location         : "Boulder, CO"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,7 +99,7 @@ author:
   github           : "jfinocchiaro"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "jessie_fin"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
