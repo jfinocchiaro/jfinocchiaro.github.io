@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/tog-coop-ipd
 date: 2020-07-21
 venue: IEEE Transactions on Games
+paperurl: https://jfinocchiaro.github.io/files/tog-coop-ipd.pdf
 <!---citation: Jessica Finocchiaro, H. David Mathias. (2020). &quot;Evolutionary Optimization of Cooperative Strategies for the Iterated Prisoner’s Dilemma&quot; IEEE Transactions on Games.-->
 ---
 Abstract: The Iterated Prisoner’s Dilemma (IPD) has been studied in fields as diverse as economics, computer science, psychology, politics, and environmental studies. This is due, in part, to the intriguing property that its Nash Equilibrium is not globally optimal. Typically treated as a single-objective problem, a player’s goal is to maximize their own score. In some work, minimizing the opponent’s score is an additional objective.  Here, we explore the role of explicitly optimizing for mutual cooperation in IPD player performance. We implement a genetic algorithm in which each member of the population evolves using one of four multi-objective fitness functions: selfish, communal, cooperative, and selfless, the last three of which use a cooperative metric as an objective. As a control, we also consider two single-
