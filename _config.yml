@@ -190,7 +190,10 @@ collections:
   blog:
     output: true
     permalink: /:collection/:path/
- 
+  ucdblog:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -219,8 +222,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
