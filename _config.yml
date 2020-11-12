@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jessie Finocchiaro"
-  avatar           : "headshot-zoomed.png"
+  avatar           : "jessie-finocchiaro.png"
   bio              : "4th year PhD student in CS Theory"
   location         : "Boulder, CO"
   employer         :
@@ -190,10 +190,7 @@ collections:
   blog:
     output: true
     permalink: /:collection/:path/
-  ucdblog:
-    output: true
-    permalink: /:collection/:path/
-
+ 
 
 # Defaults
 defaults:
