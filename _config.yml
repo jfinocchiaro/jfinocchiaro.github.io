@@ -125,7 +125,7 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
-  - assets
+#  - assets
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
@@ -286,7 +286,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -295,8 +295,8 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#remote_theme: "mmistakes/minimal-mistakes"
+#minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 
