@@ -3,7 +3,7 @@ title: Social Trends in the Iterated Prisoner's Dilemma (Extended Abstract)
 collection: publications
 permalink: /publication/ipd-gecco17
 date: 2017-06-07
-venue: Genetic and Evolutionary Computation Conference (GECCO) 2017
+venue: Genetic and Evolutionary Computation Conference (GECCO)
 paperurl: https://dl.acm.org/citation.cfm?id=3082037
 <!---citation: Jessica Finocchiaro, H. David Mathias. (2017). &quot;Social Trends in the Iterated Prisoner's Dilemma.&quot; <i>Genetic and Evolutionary Computation Conference (GECCO) 2017</i>. -->
 ---

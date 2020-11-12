@@ -47,9 +47,9 @@
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <details><summary>Abstract</summary><p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p></details>
+    <details><summary>Course link</summary><p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p></details>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <details><summary>Abstract</summary><p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p> </details>
+    <details><summary>Course link</summary><p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p> </details>
     {% endif %}
     
     {% if post.citation and post.paperurl %}
@@ -57,7 +57,7 @@
     {% elsif post.citation %}
       <details><summary>Recommended Citation</summary><p>Recommended citation: {{ post.citation }} </p></details>
     {% elsif post.paperurl %}
-      <details><summary>Paper link</summary><p><a href=" {{ post.paperurl }} "><u>Paper</u></a></p></details>
+      <details><summary>Paper link</summary><p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p></details>
     {% endif %}
 
   </article>

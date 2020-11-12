@@ -3,7 +3,7 @@ title: An Embedding Framework for Consistent Polyhedral Surrogates
 collection: publications
 permalink: /publication/poly-embed
 date: 2019-07-20
-venue: Neural Information Processing Systems (NeurIPS) 2019
+venue: Neural Information Processing Systems (NeurIPS)
 paperurl: https://arxiv.org/abs/1907.07330
 <!---citation: Jessica Finocchiaro, Rafael Frongillo, and Bo Waggoner. (2019). &quot;An Embedding Framework for Consistent Polyhedral Surrogates&quot;-->
 ---
