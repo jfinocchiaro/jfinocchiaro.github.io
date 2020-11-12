@@ -6,6 +6,7 @@ excerpt: Egocentric, or first-person, vision which became popular in recent year
 date: 2017-03-20
 venue: Winter Conference on Applications in Computer Vision (WACV)
 paperurl: https://arxiv.org/pdf/1610.02714.pdf
+author_list: Jessie Finocchiaro, Aisha Urooj Khan, Ali Borji
 
 ---
 
