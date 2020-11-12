@@ -233,8 +233,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-      #author_list: ""
+      comments: true #author_list: ""
   # _portfolio
   - scope:
       path: ""
