@@ -5,7 +5,7 @@ type: "Presentation"
 permalink: /talks/embedding-riken20
 venue: "RIKEN AIP Learning Theory Seminar"
 date: 2020-12-14
-location: "Tokyo, Japan"
+location: "Tokyo, Japan/Virtual"
 ---
 
-[Poster](../files/riken-talk-slides.pdf) presentation for the ICS annual poster session.
+[Slides](../files/riken-talk-slides.pdf).
