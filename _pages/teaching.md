@@ -1,12 +1,34 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
 nav: true
-nav_order: 6
+nav_order: 3
+horizontal: false
+reversed: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<!-- Display courses without categories -->
+<div class="courses">
+{% assign sorted_courses = site.teaching | sort: "importance" %}
 
-Organize your courses by years, topics, or universities, however you like!
+  <!-- Generate cards for each course -->
+
+{% if page.horizontal %}
+
+  <div class="container">
+    <div class="row row-cols-2">
+    {% for course in sorted_courses %}
+      {% include teaching_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+{% else %}
+  <div class="grid">
+    {% for course in sorted_courses %}
+      {% include teaching.liquid %}
+    {% endfor %}
+  </div>
+{% endif %}
+
+</div>

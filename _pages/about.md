@@ -1,25 +1,32 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: NSF Mathematical Sciences Postdoctoral Research Fellow, CRCS Fellow
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jessie-finocchiaro.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 2.101</p>
+    <p>150 Western Ave</p>
+    <p>Allston, MA 02134</p>
 
 news: true # includes a list of news items
+latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi, I'm Jessie! (Pronouns: she/her; pronounced: Jeh-see Fin-uh-car-oh)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am in incoming Assistant Professor of Computer Science at [Boston College](https://www.bc.edu), starting Sept 2024.
+Currently, I am a [National Science Foundation Mathematical Sciences Postdoctoral Research Fellow](https://nsf.gov/awardsearch/showAward?AWD_ID=2202898&HistoricalAwards=false) and [CRCS Fellow](https://crcs.seas.harvard.edu/) at Harvard University, hosted by [Dr. Yiling Chen](https://yiling.seas.harvard.edu/). I also collaborate with [Teamcore](https://teamcore.seas.harvard.edu/), led by [Dr. Milind Tambe](https://teamcore.seas.harvard.edu/tambe).
+
+I graduated from the [CS Theory](https://www.colorado.edu/cs-theory/) group at CU Boulder, working with [Dr. Rafael Frongillo](http://www.cs.colorado.edu/~raf/).  In general, my research interests intersect Theoretical Machine Learning, Algorithmic Game Theory, and Computational Economics.  In particular, I am interested in understanding the design and impacts of objective function design in prediction and optimization tasks.  Previously, I was a 2019 [National Science Foundation Graduate Research Fellow](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList). 
+
+I'm happy to chat about careers in research and my experience as a PhD student and postdoc. However, I sadly cannot meet with everyone who emails me; if we're not already acquainted, please add "Marshfield" to the subject line and please add a few words about why you're emailing me in particular. 
+
+
