@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CSCI 3XXX-- Foundations of algorithmic (un)fairness
+title: CSCI 3358-- Foundations of algorithmic (un)fairness
 description: Fall 2024 at Boston College
 importance: 1
 ---
@@ -11,6 +11,10 @@ importance: 1
 <p> Office hours: TBD </p>
 
 <p> <a href ="https://calendar.google.com/calendar/u/2?cid=Y19lYzc3MjU2Yjc5ZGFkOTJkMDAwMDI0ZDUyYTcyM2NlYzdlMDY3MWU0NTUzNWI0ZjU5ZmMzZjRiOTU3YTQwMjE5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20">Class Calendar (office hours, due date reminders, etc.)</a> Must be logged in to BC account. </p>
+
+<h2> This is a draft ofthe course plan. Schedule and grading schemes are subject to change </h2>
+
+<p>  </p>
 
 <h3> Course description </h3>
 <p> Computation is being increasingly used to support decision-making in our society: algorithmic predictions of repayment likelihood are given to banks to help them determine whether or not they should give someone a loan; in the COVID-19 pandemic, algorithms were used to allocate initially scarce vaccines; facial recognition algorithms allow us to use our faces as "keys" to unlock our phones and even houses. In these high-stakes settings, concerns of fairness and justice are salient. This course will equip students with the mathematical tools to understand and address some of these concerns. Topics will include: how to computationally define and diagnose (un)fairness, the role of uncertainty in fairness, disparate treatment vs disparate impact, and contextualization within US anti-discrimination law.  </p>
@@ -51,7 +55,7 @@ By the end of this course, I hope you are able to...
 <h3> Grading and late policies </h3>
 Due dates will generally be at 5:00pm. If your homework is uploaded by the time I go to download everyone's submissions, that is okay. Sometimes I might download submissions right away, but I might not always. This allows some flexibility so that submissions at 5:05pm are less stressful, but waiting on the order of a day enters the danger zone.
 
-Beyond this, I will subtract 2 percent off your grade per day that your assignment is late
+Beyond this, I will subtract 2 percent off your grade per day that your assignment is late.
 
 
 | Mode of participation | Portion of grade | Examples |
@@ -68,7 +72,7 @@ I want to make sure our class is a place where you are able to share your experi
 <h5> Notes </h5>
 Tuesday class structure will tend to be more of a lecture-style format, where Thursdays will dive into a case study going deeper into what we learned on Tuesday. Before we dive into case studies, I will spend the first 30 minutes of Thursday's class going into more depth and answering questions that you still have after Tuesday's lecture.
 
-To better understand what you gleaned from class on Tuesday, I am going to ask you upload your notes on Tuesday's lecture by Wednesday at 5pm. Since lectures will involve a decent amount of math, which is not easy to type, I encourage you to take handwritten notes. Your upload of these notes can simply be a picture of your handwritten notes.
+To better understand what you gleaned from class on Tuesday, I am going to ask you upload your notes on Tuesday's lecture by Wednesday at noon. Since lectures will involve a decent amount of math, which is not easy to type in real time, I encourage you to take handwritten notes. Your upload of these notes can simply be a picture of your handwritten notes.
 
 
 
@@ -105,18 +109,18 @@ Five homework assignments will be given throughout the semester. The assignments
 
 Throughout the course, you will be working on a larger-scale class project in groups of 2-3 on a topic of your choosing. There are so many important and fascinating challenges that we simply won't have time to cover in class. This project is your opportunity to get some hands-on experience with something that piques your interest. Because this project is a large portion of your grade, it shouldn't be all done between Thanksgiving and finals. To this end, we will have some regular check ins.
 
-Sept 13: Project proposal due. (I will do my best to have feedback and suggested literature to you by Sept 20)
+__Sept 13__: Project proposal due. (I will do my best to have feedback and suggested literature to you by Sept 20)
 
-Sept 27: Update 1 due. At this point, you should understand what the challenges are that you're going to face and how you plan to overcome them. 
+__Sept 27__: Update 1 due. At this point, you should understand what the challenges are that you're going to face and how you plan to overcome them. 
 
-Oct 11: Update 2 due. At this point, you should have access to data that you will need for your project, if necessary. If applicable, experiments should be planned.
+__Oct 11__: Update 2 due. At this point, you should have access to data that you will need for your project, if necessary. If applicable, experiments should be planned.
 
-Nov 8: Update 3 due. You should have some preliminary results, at the very least. 
+__Nov 8__: Update 3 due. You should have some preliminary results, at the very least. 
 
 I would recommend the work for the project is done before the Thanksgiving holiday so you can relax and enjoy some time with loved ones, and only have to work on your final presentation after the break.
 
 
-Dec 12ish: During final exam period, project presentations.
+__Dec 12ish__: During final exam period, project presentations.
 
 
 <h3> Required texts and materials </h3>
