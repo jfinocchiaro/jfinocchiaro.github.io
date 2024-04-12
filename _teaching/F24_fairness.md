@@ -132,7 +132,7 @@ No textbooks are required for this course, though the following will be helpful 
 <h3> Communication expectations </h3>
 I will do my best to be generally responsive, while still protecting my personal boundaries. In general, the best way to contact me is by <a href="mailto:finocch@bc.edu">email</a>.
 
-In general, I will do my best to respond to emails within 24 hours, and I expect you to do the same. When grading, I will do my best to have grades uploaded to the portal within a week, but will let the class know if this isn't attainable.
+I will do my best to respond to emails within 24 hours (excluding weekends, which might delay responses), and I expect you to do the same. When grading, I will do my best to have grades uploaded to the portal within a week, but will let the class know if this isn't attainable.
 
 In writing your emails, please write in complete sentences and take the time to give more context on your problem than you think I need. It will help me get a better idea of your understanding and thinking, and I can provide better feedback with this in mind.
 
