@@ -6,13 +6,13 @@ importance: 1
 ---
 
 <h3> Instructor: Jessie Finocchiaro </h3>
-<p> Tuesday, Thursdays 9a-10:15a, Fulton Hall 250 </p>
-<p> <a href="mailto:finocch@bc.edu"> Email </a> </p>
+<p> Tuesday, Thursdays 9a-10:15a, 245 Beacon St Room 125A </p>
+<p> <a href="mailto:jessie.finocchiaro@bc.edu"> Email</a>: {first name}.{last name}@bc.edu </p>
 <p> Office hours: TBD </p>
 
 <p> <a href ="https://calendar.google.com/calendar/u/2?cid=Y19lYzc3MjU2Yjc5ZGFkOTJkMDAwMDI0ZDUyYTcyM2NlYzdlMDY3MWU0NTUzNWI0ZjU5ZmMzZjRiOTU3YTQwMjE5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20">Class Calendar (office hours, due date reminders, etc.)</a> Must be logged in to BC account. </p>
 
-<h2> This is a draft ofthe course plan. Schedule and grading schemes are subject to change </h2>
+<h2> This is a draft of the course plan. Schedule and grading schemes are subject to change </h2>
 
 <p>  </p>
 
@@ -31,24 +31,24 @@ By the end of this course, I hope you are able to...
 
 <h3> Tentative schedule </h3>
 
-| Week | Topic                                   | Case Study topic                                           | Text reference     | Assignments/Activities                                |
-|:------|:-----------------------------------------|:--------------------------------------------------------:|:-------------------|:--------------------------------------------------------|
-| 8/27    | Introduction and prediction problems         |                  |  |            |
-|  9/3   | Audits                                  | [Gender Shades](https://gendershades.org)                  |  BHN Ch 7 |   HW 1 on probability due Sept 4  |
-| 9/10   | Quantitative definitions of group fairness | [COMPAS](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)           |   | Project proposal due Sept 13 |
-| 9/17   | Quant defs of fairness (incompatability)  | TBD | [Kleinberg, Mullainathan, Raghavan 2016](https://arxiv.org/abs/1609.05807) | HW 2 due Sept 20 |
-| 9/24   | Calibration                             | [DEWS](https://jcperdomo.org/pdfs/difficult_lessons.pdf) |  | Project update 1 due Sept 27      |
-| 10/1   | Individual fairness | [Algorithmic hiring](https://www.ml.cmu.edu/news/news-archive/2016-2020/2018/october/amazon-scraps-secret-artificial-intelligence-recruiting-engine-that-showed-biases-against-women.html) || HW 3 due Oct 4      |
-| 10/8  | Feedback loops  | Predictive policing   | [Runaway feedback loops in predictive policing](https://arxiv.org/abs/1706.09847) | Project update 2 due Oct 11 |
-| 10/15  | Fall break         |               |    | Enjoy the holiday!   |
-| 10/22  | Beyond prediction (intro to welfare/resource allocation)         | TBD | [Measuring non-expert perceptions of ML fairness metrics Saha et al. 2020](https://arxiv.org/pdf/2001.00089.pdf) | |
-| 10/29   | Social choice                                 | [Citizens assemblies](https://www.parliament.uk/get-involved/committees/climate-assembly-uk/about-citizens-assemblies/) |  | HW 4 due Nov 1    |
-| 11/5 | Fair division | [Rent division](https://sigecom.org/exchanges/volume_13/2/GOLDMAN.pdf)           || Project update 3 due Nov 8        |
-| 11/12 | Fairness notions in resource allocation | TBD (Voting or committee selection) |  HCSS  | HW 5 due Nov 15 |
-| 11/19 |  Privacy  | [Facial and gender recognition](https://cmci.colorado.edu/idlab/assets/bibliography/pdf/Scheuerman2020-cscw-databaseidentity.pdf) |   | Work on your final project!      |
-| 11/26 | Modeling social problems algorithmically | [Ban the box?](https://www.dropbox.com/s/6tsfis5lerot236/BTBworking.pdf?e=1&dl=0) |   | Work on your final project!      |
-| 12/3 |  US Anti-discrimination law | [Discrimination in housing ads](https://www.justice.gov/opa/pr/justice-department-secures-groundbreaking-settlement-agreement-meta-platforms-formerly-known#:~:text=The%20Department%20of%20Justice%20announced,Fair%20Housing%20Act%20(FHA).)                  || Work on your final project! |
-| 12/10 | Final project presentation         |      |      | Final project presentations   |
+| Week | Topic                                               | Case Study topic                                           | Text reference                                                 | Assignments/Activities                                |
+|:------|:---------------------------------------------------|:--------------------------------------------------------:|:-----------------------------------------------------------------|:----------------------------------|
+| 8/27    | Introduction and prediction problems             |                                                          |   [BHN Ch 1](https://fairmlbook.org/pdf/fairmlbook.pdf)          |                                   |
+|  9/3   | Audits                                            | [Gender Shades](https://gendershades.org)                |    [BHN Ch 7]((https://fairmlbook.org/pdf/fairmlbook.pdf))       |   HW 1 on probability due Sept 4  |
+| 9/10   | Quantitative definitions of group fairness        |  [Lending discrimination](https://www.cnn.com/2023/12/14/business/navy-federal-credit-union-black-applicants-invs/index.html) and [Fair Lending](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_lending#_Examples_of_Lending)          |   [BHN Ch 3](https://fairmlbook.org/pdf/fairmlbook.pdf)     |  Project proposal due Sept 13     |
+| 9/17   | Quant defs of fairness (incompatability)          | [COMPAS](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) | [KMR 2016](https://arxiv.org/abs/1609.05807) | HW 2 due Sept 20        |
+| 9/24   | Calibration                                       | [Early Warning Systems](https://jcperdomo.org/pdfs/difficult_lessons.pdf) |                                                                  | Project update 1 due Sept 27      |
+| 10/1   | Individual fairness                               | [Algorithmic hiring](https://www.ml.cmu.edu/news/news-archive/2016-2020/2018/october/amazon-scraps-secret-artificial-intelligence-recruiting-engine-that-showed-biases-against-women.html) || HW 3 due Oct 4      |
+| 10/8  | Feedback loops                                     | [Predictive policing](https://incidentdatabase.ai/cite/54/#r1525) | [Runaway feedback loops in predictive policing](https://arxiv.org/abs/1706.09847) | Project update 2 due Oct 11 |
+| 10/15  | Fall break / Intro to welfare/resource allocation |  No case study                                           |  [HCSC Ch 11](https://www.cse.unsw.edu.au/~haziz/comsoc.pdf)     | Enjoy the holiday!                |
+| 10/22  | Intro to welfare/resource allocation continued    | [Pooled testing of COVID vaccines](https://dl.acm.org/doi/fullHtml/10.1145/3465416.3483300) |                               |                                   |
+| 10/29  |  Social choice                                    | [Citizens assemblies](https://www.parliament.uk/get-involved/committees/climate-assembly-uk/about-citizens-assemblies/) |   | HW 4 due Nov 1                    |
+| 11/5   | Fair division                                     | [Rent division](https://sigecom.org/exchanges/volume_13/2/GOLDMAN.pdf)   | [HCSC Ch 13](https://www.cse.unsw.edu.au/~haziz/comsoc.pdf) | Project update 3 due Nov 8    |
+| 11/12 | Fairness notions in resource allocation            | TBD (Voting or committee selection)                      |  [HCSC Ch 2, 6](https://www.cse.unsw.edu.au/~haziz/comsoc.pdf)   | HW 5 due Nov 15                   |
+| 11/19 |  Privacy                                           | [Facial and gender recognition](https://cmci.colorado.edu/idlab/assets/bibliography/pdf/Scheuerman2020-cscw-databaseidentity.pdf) |   | Work on your final project!      |
+| 11/26 | Modeling social problems algorithmically           | [Ban the box?](https://www.dropbox.com/s/6tsfis5lerot236/BTBworking.pdf?e=1&dl=0) |                                         | Work on your final project       |
+| 12/3 |  US Anti-discrimination law                         | [Discrimination in housing ads](https://www.justice.gov/opa/pr/justice-department-secures-groundbreaking-settlement-agreement-meta-platforms-formerly-known#:~:text=The%20Department%20of%20Justice%20announced,Fair%20Housing%20Act%20(FHA).)                  || Work on your final project  |
+| 12/10 | Final project presentation                         |                                                          |                                                                  | Final project presentations   |
 
 
 
@@ -63,7 +63,7 @@ Beyond this, I will subtract 2 percent off your grade per day that your assignme
 | Participation | 15 | Notes, CS Experience, Not being on your laptop/phone/airpods during class |
 |Case Study presentation | 15 | A 30-minute presentation leading class discussion on a topic covered in class.
 | Homework | 30 | Variety of coding and theoretical assignments |
-| Final Project| 40 | Includes project proposal, final presentation |
+| Final Project| 40 | Includes project proposal, final presentation, project writeup |
 
 
 <h4> Participation </h4>
@@ -109,6 +109,8 @@ Five homework assignments will be given throughout the semester. The assignments
 
 Throughout the course, you will be working on a larger-scale class project in groups of 2-3 on a topic of your choosing. There are so many important and fascinating challenges that we simply won't have time to cover in class. This project is your opportunity to get some hands-on experience with something that piques your interest. Because this project is a large portion of your grade, it shouldn't be all done between Thanksgiving and finals. To this end, we will have some regular check ins.
 
+The [AI Incident Database](https://incidentdatabase.ai) might be a great place to find inspiration for your project if you need ideas.
+
 __Sept 13__: Project proposal due. (I will do my best to have feedback and suggested literature to you by Sept 20)
 
 __Sept 27__: Update 1 due. At this point, you should understand what the challenges are that you're going to face and how you plan to overcome them. 
@@ -117,10 +119,10 @@ __Oct 11__: Update 2 due. At this point, you should have access to data that you
 
 __Nov 8__: Update 3 due. You should have some preliminary results, at the very least. 
 
-I would recommend the work for the project is done before the Thanksgiving holiday so you can relax and enjoy some time with loved ones, and only have to work on your final presentation after the break.
+I would recommend the work for the project is done before the Thanksgiving holiday so you can relax and enjoy some time off, and only have to work on your final presentation after the break.
 
 
-__Dec 12ish__: During final exam period, project presentations.
+__Dec 12ish__: During final exam period, project presentations. At the beginning of the exam period, technical reports due as well.
 
 
 <h3> Required texts and materials </h3>
