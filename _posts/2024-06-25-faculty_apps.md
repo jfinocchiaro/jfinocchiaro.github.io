@@ -11,8 +11,8 @@ related_posts: true
 
 # Intro
 
-I went on the 2023-24 academic job market, mostly in Computer Science, but also applied to some positions in Operations Research, Data Science, Math, and Statistics. I learned a lot along the way, and am stoked to be coming out of the job market with my current position. I’m writing this to share some of my experience, but as with all advice, what worked well for me might not work well for you. If I say something that doesn’t feel right to you, feel free to ignore it. I applied primarily to faculty positions and went on the job market in the second year of my postdoc, so if you are navigating both markets simultaneously, things might be different. (Kate Donahue is writing a blog post on her experience after going on both markets if that’s your plan.)
-
+I went on the 2023-24 academic job market, mostly in Computer Science, but also applied to some positions in Operations Research, Data Science, Math, and Statistics. I learned a lot along the way, and am stoked to be coming out of the job market with my current position. I’m writing this to share some of my experience, but as with all advice, what worked well for me might not work well for you. If I say something that doesn’t feel right to you, feel free to ignore it. I applied primarily to faculty positions and went on the job market in the second year of my postdoc, so if you are navigating both markets simultaneously, things might be different. ([Kate Donahue](https://www.katedonahue.me) is writing a summary of her experience after going on both markets if that’s your plan; rumor is she's willing to share if you ask nicely.)
+__Warning__: Survivorship bias. I got a job that I'm stoked about!
 
 
 Everyone has different life factors affecting their decision (do you want to be in a big city; close to family; will your university support Visa applications?). In my situation, I had been dating my partner for a little under a year when the job market started, and her job prospects are best in Boston and the bay area. With my family being in Boston, I had a strong preference to stay in the area, but applied broadly since my relationship was relatively young. The preference to stay in the area led me to apply to some positions that I wouldn’t have applied for if they were in other locations (more on this later).
@@ -173,7 +173,7 @@ Most job talks (all of mine) are scheduled in a 1 hour slot, and most faculty wi
 
 Three schools had me give my job talk early in the day, before any one-on-one meetings, and three had me give it mid-interview. (One school had me give a teaching talk instead.) Giving the job talk early was great for one-on-one meetings, since discussions could usually skip over the “what’s your research” elevator pitch. However, one job talk that was at 9am was filled with an audience that was visually not awake yet and/or on their laptops before the talk even started, and I didn’t reap that benefit of the early talk.
 
-Some examples of job talks include: [Kira’s](https://youtu.be/yhD7KnOjmK8), [Elissa’s](https://www.microsoft.com/en-us/research/video/security-for-all-modeling-structural-inequities-to-design-more-secure-systems/), and [my slides](job_talk.pdf).
+Some examples of job talks include: [Kira’s](https://youtu.be/yhD7KnOjmK8), [Elissa’s](https://www.microsoft.com/en-us/research/video/security-for-all-modeling-structural-inequities-to-design-more-secure-systems/), and [my slides](/assets/pdf/job_talk.pdf).
 
 # On-campus interviews
 
