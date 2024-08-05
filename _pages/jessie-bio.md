@@ -1,3 +1,4 @@
 Jessie Finocchiaro (she/her) is a NSF Mathematical Sciences Postdoctoral Research fellow at Harvard University hosted by Dr. [Yiling Chen](yiling.seas.harvard.edu), and an affiliate of Harvard’s [Center for Research on Computation and Society](crcs.seas.harvard.edu). Previously, she received her doctorate in Computer Science from the University of Colorado Boulder under the supervision of Dr. [Rafael Frongillo](https://raf.prof), where she was awarded a NSF Graduate Research Fellowship. Her research spans theoretical machine learning and algorithmic economics, and has been recognized with a NeurIPS spotlight presentation, awarded to the top 4% of submissions.
 
 [Email](mailto:finocch@bc.edu)
+Phone: 617-552-3936
