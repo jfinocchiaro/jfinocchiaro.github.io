@@ -122,6 +122,8 @@ Five homework assignments will be given throughout the semester. The assignments
 
 <h4> Final project </h4>
 
+[Project description](https://www.jessiefin.com/assets/pdf/csci_3358_finalproject.pdf)
+
 Throughout the course, you will be working on a larger-scale class project in groups of 2-3 on a topic of your choosing. There are so many important and fascinating challenges that we simply won't have time to cover in class. This project is your opportunity to get some hands-on experience with something that piques your interest. Because this project is a large portion of your grade, it shouldn't be all done between Thanksgiving and finals. To this end, we will have some regular check ins.
 
 The [AI Incident Database](https://incidentdatabase.ai) might be a great place to find inspiration for your project if you need ideas.
