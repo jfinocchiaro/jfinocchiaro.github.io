@@ -25,30 +25,45 @@ __Prerequisites__: CS1, comfort with probability (Randomness and Computation) re
 By the end of this course, I hope you are able to... 
 * Identify bias in datasets and algorithms;
 * Explain __how__ bias is present, and what algorithmic solutions can supplement non-algorithmic solutions;
-* Translate mathematical concepts about parity and fairness into their real-world applications, and be able to explain and acknowledge the shortcomings of algorithmic solutions.
+* Translate mathematical concepts about parity and fairness into their real-world applications, and be able to explain and acknowledge the shortcomings of algorithmic solutions;
+* Communicate these finding to both technical and non-technical audiences.
 
 
 
 <h3> Tentative schedule </h3>
 
-| Week | Topic                                               | Case Study topic                                           | Text reference                                                 | Assignments/Activities                                |
-|:------|:---------------------------------------------------|:--------------------------------------------------------:|:-----------------------------------------------------------------|:----------------------------------|
-| 8/27    | Introduction and prediction problems             |                                                          |   [BHN Ch 1](https://fairmlbook.org/pdf/fairmlbook.pdf)          |                                   |
-|  9/3   | Audits                                            | [Gender Shades](https://gendershades.org)                |    [BHN Ch 7]((https://fairmlbook.org/pdf/fairmlbook.pdf))       |   HW 1 on probability due Sept 4  |
-| 9/10   | Quantitative definitions of group fairness        |  [Lending discrimination](https://www.cnn.com/2023/12/14/business/navy-federal-credit-union-black-applicants-invs/index.html) and [Fair Lending](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_lending#_Examples_of_Lending)          |   [BHN Ch 3](https://fairmlbook.org/pdf/fairmlbook.pdf)     |  Project proposal due Sept 13     |
-| 9/17   | Quant defs of fairness (incompatability)          | [COMPAS](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) | [KMR 2016](https://arxiv.org/abs/1609.05807) | HW 2 due Sept 20        |
-| 9/24   | Calibration                                       | [Early Warning Systems](https://jcperdomo.org/pdfs/difficult_lessons.pdf) |                                                                  | Project update 1 due Sept 27      |
-| 10/1   | Individual fairness                               | [Algorithmic hiring](https://www.ml.cmu.edu/news/news-archive/2016-2020/2018/october/amazon-scraps-secret-artificial-intelligence-recruiting-engine-that-showed-biases-against-women.html) || HW 3 due Oct 4      |
-| 10/8  | Feedback loops                                     | [Predictive policing](https://incidentdatabase.ai/cite/54/#r1525) | [Runaway feedback loops in predictive policing](https://arxiv.org/abs/1706.09847) | Project update 2 due Oct 11 |
-| 10/15  | Fall break / Intro to welfare/resource allocation |  No case study                                           |  [HCSC Ch 11](https://www.cse.unsw.edu.au/~haziz/comsoc.pdf)     | Enjoy the holiday!                |
-| 10/22  | Intro to welfare/resource allocation continued    | [Pooled COVID testing](https://dl.acm.org/doi/fullHtml/10.1145/3465416.3483300) |                               |                                   |
-| 10/29  |  Social choice                                    | [Citizens assemblies](https://www.parliament.uk/get-involved/committees/climate-assembly-uk/about-citizens-assemblies/) |   | HW 4 due Nov 1                    |
-| 11/5   | Fair division                                     | [Rent division](https://sigecom.org/exchanges/volume_13/2/GOLDMAN.pdf)   | [HCSC Ch 13](https://www.cse.unsw.edu.au/~haziz/comsoc.pdf) | Project update 3 due Nov 8    |
-| 11/12 | Fairness notions in resource allocation            | TBD (Voting or committee selection)                      |  [HCSC Ch 2, 6](https://www.cse.unsw.edu.au/~haziz/comsoc.pdf)   | HW 5 due Nov 15                   |
-| 11/19 |  Privacy                                           | [Facial and gender recognition](https://cmci.colorado.edu/idlab/assets/bibliography/pdf/Scheuerman2020-cscw-databaseidentity.pdf) |   | Work on your final project!      |
-| 11/26 | Modeling social problems algorithmically           | No case study -- happy Thanksgiving! |                                         | Work on your final project       |
-| 12/3 |  US Anti-discrimination law                         | [Discrimination in housing ads](https://www.justice.gov/opa/pr/justice-department-secures-groundbreaking-settlement-agreement-meta-platforms-formerly-known#:~:text=The%20Department%20of%20Justice%20announced,Fair%20Housing%20Act%20(FHA).)                  || Work on your final project  |
-| 12/10 | Final project presentation                         |                                                          |                                                                  | Final project presentations   |
+| Date | Topic                                               | Case Study topic                                  | Text reference                                           | Assignments/Activities                       |
+|:------|:---------------------------------------------------|:-------------------------------------------------:|:---------------------------------------------------------|:----------------------------------|
+| 8/27    | Introduction and prediction problems             |                                                   |   [BHN Ch 1](https://fairmlbook.org/pdf/fairmlbook.pdf)  |                                   |
+| 8/29    | Audits                                           |                                                   |   [BHN Ch 7](https://fairmlbook.org/pdf/fairmlbook.pdf)  |                                   |
+|  9/3   | Audits Case study                                 | [Gender Shades](https://gendershades.org)         |                                                          |   HW 1 on probability due Sept 4  |
+|  9/5   | Prediction problems                               |                                                   |                                                          |                                   |
+| 9/10   | Quantitative definitions of group fairness        |                                                   |   [BHN Ch 3](https://fairmlbook.org/pdf/fairmlbook.pdf)  |                                   |
+| 9/12   | Incompatibility of fairness metrics               |                                                   |                                                          |  Project prposal due September 13 |
+| 9/17   | Quant defs case study                             | [Lending discrimination](https://www.cnn.com/2023/12/14/business/navy-federal-credit-union-black-applicants-invs/index.html) and [Fair Lending](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_lending#_Examples_of_Lending)                                                        |                                                          |                                   |
+| 9/19   | Incompatibility case study                        | [COMPAS](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) | [KMR 2016](https://arxiv.org/abs/1609.05807) | HW 2 due Sept 20        |
+| 9/24   | Calibration                                       |                                                   |  [BHN Ch 4](https://fairmlbook.org/pdf/fairmlbook.pdf)   |                                   |
+| 9/26   | Individual fairness                               |                                                   |                                                          | Project update 1 due Sept 27      |
+| 10/1   | Feedback loops                                    |                                                   | [Runaway feedback loops in predictive policing](https://arxiv.org/abs/1706.09847) |          |
+| 10/3   | Calibration Case study                            | [Early Warning Systems](https://jcperdomo.org/pdfs/difficult_lessons.pdf) |                                  |                                   |
+| 10/8   | Individual Fairness case study                    |  [Algorithmic hiring](https://www.ml.cmu.edu/news/news-archive/2016-2020/2018/october/amazon-scraps-secret-artificial-intelligence-recruiting-engine-that-showed-biases-against-women.html)            |                                                          |                                   |
+| 10/10  | Feedback loops case study                         | [Predictive policing](https://incidentdatabase.ai/cite/54/#r1525) |                                          | HW 3 due Oct 11                   |
+| 10/15  | Fall break  |                                     |                                                   | Enjoy the holiday!                                       |                                   |
+| 10/17  | Intro to welfare/resource allocation              |                                                   |  [HCSC Ch 11](https://www.cse.unsw.edu.au/~haziz/comsoc.pdf) |                               |
+| 10/22  | Scarce resource allocation                        |                                                   |                                                          |                                   |   
+| 10/24  | Intro to social choice                            |                                                   |                                                          |    Project update 2 due Oct 25    |
+| 10/29  | Scarce resource allocation case study             | [Pooled COVID testing](https://arxiv.org/abs/2206.10660) |                                                   |                                   |
+| 10/31  |  Social choice case study                         | [Citizens assemblies](https://www.parliament.uk/get-involved/committees/climate-assembly-uk/about-citizens-assemblies/) |   | HW 4 due Nov 1     |
+| 11/5   | Fair division                                     |                                                   | [HCSC Ch 13](https://www.cse.unsw.edu.au/~haziz/comsoc.pdf) |                                |
+| 11/7 | Fairness notions in resource allocation             |                                                   |  [HCSC Ch 2, 6](https://www.cse.unsw.edu.au/~haziz/comsoc.pdf)   | Project update 3 due Nov 8|
+| 11/12 | Fair division case study                           | [Rent division](https://sigecom.org/exchanges/volume_13/2/GOLDMAN.pdf) | [HCSC Ch 13](https://www.cse.unsw.edu.au/~haziz/comsoc.pdf) |           |
+| 11/14 | Fairness notions in social choice case study       | Participatory budgeting                           |                                                          | HW 5 due Nov 15                   |
+| 11/19 |  Privacy                                           |                                                   |                                                          | Work on your final project!      |
+| 11/21 |  US Anti-discrimination law                        |                                                   |   [BHN Ch 6](https://fairmlbook.org/pdf/fairmlbook.pdf)  | Work on your final project!      |
+| 11/26 |  Privacy case study                               | [Facial and gender recognition](https://cmci.colorado.edu/idlab/assets/bibliography/pdf/Scheuerman2020-cscw-databaseidentity.pdf) |   | Work on your final project!      |
+| 12/3 |  US Anti-discrimination case study 1                | [Discrimination in housing ads](https://www.justice.gov/opa/pr/justice-department-secures-groundbreaking-settlement-agreement-meta-platforms-formerly-known#:~:text=The%20Department%20of%20Justice%20announced,Fair%20Housing%20Act%20(FHA).)                                                       |                                                          | Work on your final project  |
+| 12/3 |  US Anti-discrimination case study 2                | [Ban the box](https://www.dropbox.com/scl/fi/7fbm7n16jkshdnvp74lr2/BTBworking.pdf?rlkey=46a87tm6mqilfwzl36ck09hmy&e=2&dl=0)                                                                                                                 |                                                          | Work on your final project  |
+| 12/12 | Final project presentation                         |                                                   |                                                          | Final project presentations   |
 
 
 
