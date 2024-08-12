@@ -8,7 +8,7 @@ importance: 1
 <h3> Instructor: Jessie Finocchiaro </h3>
 <p> Tuesday, Thursdays 9a-10:15a, 245 Beacon St Room 125A </p>
 <p> <a href="mailto:jessie.finocchiaro@bc.edu"> Email</a>: {first name}.{last name}@bc.edu </p>
-<p> Office hours: TBD </p>
+<p> Office hours: W 3-4, H 10:30-12 </p>
 
 <p> <a href ="https://calendar.google.com/calendar/u/2?cid=Y19lYzc3MjU2Yjc5ZGFkOTJkMDAwMDI0ZDUyYTcyM2NlYzdlMDY3MWU0NTUzNWI0ZjU5ZmMzZjRiOTU3YTQwMjE5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20">Class Calendar (office hours, due date reminders, etc.)</a> Must be logged in to BC account. </p>
 
@@ -34,14 +34,14 @@ By the end of this course, I hope you are able to...
 
 | Date | Topic                                               | Case Study topic                                  | Text reference                                           | Assignments/Activities                       |
 |:------|:---------------------------------------------------|:-------------------------------------------------:|:---------------------------------------------------------|:----------------------------------|
-| 8/27    | Introduction and prediction problems             |                                                   |   [BHN Ch 1](https://fairmlbook.org/pdf/fairmlbook.pdf)  |                                   |
-| 8/29    | Audits                                           |                                                   |   [BHN Ch 7](https://fairmlbook.org/pdf/fairmlbook.pdf)  |                                   |
-|  9/3   | Audits Case study                                 | [Gender Shades](https://gendershades.org)         |                                                          |   HW 1 on probability due Sept 4  |
+| 8/27    | Introduction             |                                                   |   [BHN Ch 1](https://fairmlbook.org/pdf/fairmlbook.pdf)  |                                   |
+| 8/29    | Prediction problems                                    |                                                   |   [BHN Ch 7](https://fairmlbook.org/pdf/fairmlbook.pdf)  |                                   |
+|  9/3   | Audits and Case study                                 | [Gender Shades](https://gendershades.org)         |                                                          |   HW 1 on probability due Sept 4  |
 |  9/5   | Prediction problems                               |                                                   |                                                          |                                   |
 | 9/10   | Quantitative definitions of group fairness        |                                                   |   [BHN Ch 3](https://fairmlbook.org/pdf/fairmlbook.pdf)  |                                   |
-| 9/12   | Incompatibility of fairness metrics               |                                                   |                                                          |  Project prposal due September 13 |
+| 9/12   | Incompatibility of fairness metrics               |                                                   | [KMR 2016](https://arxiv.org/abs/1609.05807)                                |  Project prposal due September 13 |
 | 9/17   | Quant defs case study                             | [Lending discrimination](https://www.cnn.com/2023/12/14/business/navy-federal-credit-union-black-applicants-invs/index.html) and [Fair Lending](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_lending#_Examples_of_Lending)                                                        |                                                          |                                   |
-| 9/19   | Incompatibility case study                        | [COMPAS](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) | [KMR 2016](https://arxiv.org/abs/1609.05807) | HW 2 due Sept 20        |
+| 9/19   | Incompatibility case study                        | [COMPAS](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) |                 | HW 2 due Sept 20        |
 | 9/24   | Calibration                                       |                                                   |  [BHN Ch 4](https://fairmlbook.org/pdf/fairmlbook.pdf)   |                                   |
 | 9/26   | Individual fairness                               |                                                   |                                                          | Project update 1 due Sept 27      |
 | 10/1   | Feedback loops                                    |                                                   | [Runaway feedback loops in predictive policing](https://arxiv.org/abs/1706.09847) |          |
@@ -68,9 +68,11 @@ By the end of this course, I hope you are able to...
 
 
 <h3> Grading and late policies </h3>
-Due dates will generally be at 5:00pm. If your homework is uploaded by the time I go to download everyone's submissions, that is okay. Sometimes I might download submissions right away, but I might not always. This allows some flexibility so that submissions at 5:05pm are less stressful, but waiting on the order of a day enters the danger zone.
+Due dates will generally be at 5:00pm. If your submission is uploaded by the time I go to download everyone’s submissions, that is okay. Sometimes I might download submissions right away, but I might not always. This allows some flexibility so that submissions at 5:05pm are less stressful, but waiting on the order of a day enters the danger zone.
 
-Beyond this, I will subtract 2 percent off your grade per day that your assignment is late.
+If you are not going to be able to closely make a given deadline, please feel welcome to email me and ask for an extension. I will grant two days of extension throughout the semester (for any assignment besides the case study), but in extenuating circumstances, will do my best to be more flexible.
+
+The exception to this is the case study. Because this is an in-class presentation for a slated day, the deadline is firm. If an emergency arises, please notify me as soon as possible.
 
 
 | Mode of participation | Portion of grade | Examples |
@@ -90,13 +92,14 @@ Tuesday class structure will tend to be more of a lecture-style format, where Th
 To better understand what you gleaned from class on Tuesday, I am going to ask you upload your notes on Tuesday's lecture by Wednesday at noon. Since lectures will involve a decent amount of math, which is not easy to type in real time, I encourage you to take handwritten notes. Your upload of these notes can simply be a picture of your handwritten notes.
 
 
-
 <h5> CS Experience </h5>
 
 Computer Science is so much more than programming, and in this course, we are exploring one way CS interweaves with human experience. I ask that you attain 3 "CS Experiences", which can take place in one of the following ways, but cannot repeat an experience more than twice:
 * Attend a CS research seminar (and send me a pic of you at the seminar + a paragraph summarizing what you took away from it)
 * Write a ~500 word biography of a computer scientist. If you don't know who to write a biography of, let me know, and I'll give you some recommendations related to what you're interested in.
 * Attend a department social event
+* Go to a CS-related club (BCCSS, WICS, ...)
+* Visit the [career center](https://www.bc.edu/bc-web/offices/student-affairs/sites/careers/about/make-an-appointment.html) for a resume review or apply for a job!
 
 Each experience is with 2% of your final grade, and falls under participation.
 
