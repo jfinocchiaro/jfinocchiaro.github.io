@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Jakob](https://jakobschoeffer.github.io/), [Alex](https://aritchie9590.github.io/), Keziah, [Faidra](https://faidramonachou.github.io/), [Marc](https://mjuarezm.github.io/), and I had a [paper](https://jfinocchiaro.github.io/publication/fair-exposure) accepted to [AAAI](https://aaai.org/Conferences/AAAI-23/)
+[Jakob](https://jakobschoeffer.github.io/), Alex, Keziah, [Faidra](https://faidramonachou.github.io/), [Marc](https://mjuarezm.github.io/), and I had a [paper](https://arxiv.org/abs/2202.09727) accepted to [AAAI](https://aaai.org/Conferences/AAAI-23/)

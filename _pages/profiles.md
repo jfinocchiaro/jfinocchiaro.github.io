@@ -14,13 +14,13 @@ profiles:
     content: jessie-bio.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Room 2.101</p>
-      <p>150 Western Ave</p>
-      <p>Allston, MA 02134</p>
+      <p>Room 528D</p>
+      <p>245 Beacon St</p>
+      <p>Chestnut Hill, MA</p>
   - align: left
     image: opie.jpg
     content: opie.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>South Carolina</p>
+      <p>Texas</p>
 ---
