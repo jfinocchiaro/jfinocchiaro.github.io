@@ -40,9 +40,9 @@ By the end of this course, I hope you are able to...
 |  9/5   | Prediction problems                               |                                                   |                                                          |                                   |
 | 9/10   | Quantitative definitions of group fairness        |                                                   |   [BHN Ch 3](https://fairmlbook.org/pdf/fairmlbook.pdf)  |                                   |
 | 9/12   | Incompatibility of fairness metrics               |                                                   | [KMR 2016](https://arxiv.org/abs/1609.05807)                                |  Project prposal due September 13 |
-| 9/17   | Quant defs case study                             | [Lending discrimination](https://www.cnn.com/2023/12/14/business/navy-federal-credit-union-black-applicants-invs/index.html) and [Fair Lending](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_lending#_Examples_of_Lending)                                                        |                                                          |                                   |
+| 9/17   | Calibration                                       |                                                   |  [BHN Ch 4](https://fairmlbook.org/pdf/fairmlbook.pdf)   |                                   |
 | 9/19   | Incompatibility case study                        | [COMPAS](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) |                 | HW 2 due Sept 20        |
-| 9/24   | Calibration                                       |                                                   |  [BHN Ch 4](https://fairmlbook.org/pdf/fairmlbook.pdf)   |                                   |
+| 9/24   | Quant defs case study                             | [Lending discrimination](https://www.cnn.com/2023/12/14/business/navy-federal-credit-union-black-applicants-invs/index.html) and [Fair Lending](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_lending#_Examples_of_Lending)                                                        |                                                          |                                   |
 | 9/26   | Individual fairness                               |                                                   |                                                          | Project update 1 due Sept 27      |
 | 10/1   | Feedback loops                                    |                                                   | [Runaway feedback loops in predictive policing](https://arxiv.org/abs/1706.09847) |          |
 | 10/3   | Calibration Case study                            | [Early Warning Systems](https://jcperdomo.org/pdfs/difficult_lessons.pdf) |                                  |                                   |
@@ -75,12 +75,16 @@ If you are not going to be able to closely make a given deadline, please feel we
 The exception to this is the case study. Because this is an in-class presentation for a slated day, the deadline is firm. If an emergency arises, please notify me as soon as possible.
 
 
+<<<<<<< HEAD
 | Mode of participation | Portion of grade | Examples |
 | :--- | :---: | :---:|
 | Participation | 15 | Notes, CS Experience, Not being on your laptop/phone/airpods during class |
 |Case Study presentation | 15 | A 30-minute presentation leading class discussion on a topic covered in class.
 | Homework | 30 | Variety of coding and theoretical assignments |
 | Final Project| 40 | Includes project proposal, final presentation, project writeup |
+=======
+The first week of class, the students collectively agreed to proceed with a standards-based grading approach, as outlined [here](https://www.jessiefin.com/assets/pdf/csci_3358_SBG_proposal.pdf).
+>>>>>>> f94c60f (Re-add everything to git repo)
 
 
 <h4> Participation </h4>
