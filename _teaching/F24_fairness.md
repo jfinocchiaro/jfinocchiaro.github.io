@@ -75,16 +75,9 @@ If you are not going to be able to closely make a given deadline, please feel we
 The exception to this is the case study. Because this is an in-class presentation for a slated day, the deadline is firm. If an emergency arises, please notify me as soon as possible.
 
 
-<<<<<<< HEAD
-| Mode of participation | Portion of grade | Examples |
-| :--- | :---: | :---:|
-| Participation | 15 | Notes, CS Experience, Not being on your laptop/phone/airpods during class |
-|Case Study presentation | 15 | A 30-minute presentation leading class discussion on a topic covered in class.
-| Homework | 30 | Variety of coding and theoretical assignments |
-| Final Project| 40 | Includes project proposal, final presentation, project writeup |
-=======
+
 The first week of class, the students collectively agreed to proceed with a standards-based grading approach, as outlined [here](https://www.jessiefin.com/assets/pdf/csci_3358_SBG_proposal.pdf).
->>>>>>> f94c60f (Re-add everything to git repo)
+
 
 
 <h4> Participation </h4>
