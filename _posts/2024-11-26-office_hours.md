@@ -2,7 +2,7 @@
 layout: post
 title: 'What are office hours?'
 date: 2024-11-26
-description: A few tips and tricks for using markdown and typesetting math
+description: A few hypotheticals about what office hours are for!
 tags: 
 categories: academic
 featured: true

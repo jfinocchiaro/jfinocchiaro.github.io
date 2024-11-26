@@ -8,7 +8,7 @@ importance: 2
 <h3> Instructor: Jessie Finocchiaro </h3>
 <p> Tuesday, Thursdays 10:30-11:45a, 245 Beacon St Room 229 </p>
 <p> <a href="mailto:jessie.finocchiaro@bc.edu"> Email</a>: {first name}.{last name}@bc.edu </p>
-<p> Office hours: TBD [What are office hours?](https://www.jessiefin.com/blog/2024/office_hours/)</p>
+<p> Office hours: TBD <a href="https://www.jessiefin.com/blog/2024/office_hours/">What are office hours?</a></p>
 
 <p> <a href ="https://calendar.google.com/calendar/u/0?cid=Y19jMDBhNDhmNGM5OWIxMTFlMzYwMGVhNjgyOGQyZmYwODk5YjVjMDM3OGFjZDg2NjkzMDJhN2ZjYTYxYjBmZmE4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20">Class Calendar (office hours, due date reminders, etc.)</a> Must be logged in to BC account. </p>
 
