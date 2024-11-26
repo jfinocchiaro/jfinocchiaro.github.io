@@ -3,6 +3,7 @@ ENV DEBIAN_FRONTEND noninteractive
 
 Label MAINTAINER Amir Pourmand
 
+
 RUN apt-get update -y && apt-get install -y --no-install-recommends \
     locales \
     imagemagick \
@@ -12,6 +13,8 @@ RUN apt-get update -y && apt-get install -y --no-install-recommends \
     jupyter-nbconvert \
     inotify-tools procps && \
     apt-get clean && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
+
+RUN gem install bundler
 
 
 RUN sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen && \

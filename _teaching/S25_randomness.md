@@ -8,7 +8,7 @@ importance: 2
 <h3> Instructor: Jessie Finocchiaro </h3>
 <p> Tuesday, Thursdays 10:30-11:45a, 245 Beacon St Room 229 </p>
 <p> <a href="mailto:jessie.finocchiaro@bc.edu"> Email</a>: {first name}.{last name}@bc.edu </p>
-<p> Office hours: TBD [What are office hours?]()</p>
+<p> Office hours: TBD [What are office hours?](https://www.jessiefin.com/blog/2024/office_hours/)</p>
 
 <p> <a href ="https://calendar.google.com/calendar/u/0?cid=Y19jMDBhNDhmNGM5OWIxMTFlMzYwMGVhNjgyOGQyZmYwODk5YjVjMDM3OGFjZDg2NjkzMDJhN2ZjYTYxYjBmZmE4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20">Class Calendar (office hours, due date reminders, etc.)</a> Must be logged in to BC account. </p>
 
@@ -25,7 +25,7 @@ If your CS1 course did not use Python as the programming language, don't panic. 
 
 <h3> Course learning goals </h3>
 
-
+My goals for you in this course are to help you develop a solid intuition for mathematical reasoning (applied to computers). That is, I hope you can use the language of probability to understand and describe the world around you-- particularly in the tech you're developing. 
 
 
 <h3> Tentative schedule </h3>
@@ -50,25 +50,25 @@ If your CS1 course did not use Python as the programming language, don't panic. 
 
 
 <h3> Grading and late policies </h3>
-Grades will be composed of 3 aspects: problem sets, in-class exams, and participation. The assignments and exams will be synced across sections. Deadlines are at 11:59pm on Friday.
+Grades will be composed of 3 aspects: problem sets, in-class exams, and participation. The assignments and exams will be synced across sections. Deadlines are at 11:59pm on Fridays. 
 
 
 <h4> Homework </h4>
 Problem sets will be due on Canvas most Fridays (check each problem set on Canvas for possible exceptions). _You must submit at least six problem sets that demonstrate a serious attempt at completion in order to be eligible for a passing grade in the course._ Each problem set will be posted approximately one week before the due date.
 
-Late submissions will receive no credit except in very unusual circumstances (at the discretion of the instructor). However, I will drop your lowest homework grade (such as a zero from a missed assignment) no questions asked. The average score on the problem sets will contribute 10% of your course grade. 
+__Late submissions will receive no credit except in very unusual circumstances (at the discretion of the instructor).__ However, I will drop your lowest homework grade (such as a zero from a missed assignment) no questions asked. The average score on the problem sets will contribute 10% of your course grade.  
 
 Your work on the problem sets will be crucial in developing a mastery of the material. Think twice before deciding to skip a problem set or not do it fully, as this will likely negatively impact your performance on exams.
 
 
 <h4> In-class exams </h4>
-Three exams will be given before the end of classes (see the schedule for dates). The exams will cover material from class, from the problem sets, and from the book. You may use your own cheat sheet (single-sided sheet of letter-sized paper of your own notes) during exams. No sharing of materials or information is allowed. The average of each student's exam scores will contribute 80% of their course grade.
+Three exams will be given before the end of classes (see the schedule for dates). The exams will cover material from class, from the problem sets, and from the book. __You may use your own cheat sheet (single-sided sheet of letter-sized paper of your own notes) during exams.__ No sharing of materials or information is allowed. The average of each student's exam scores will contribute 80% of their course grade.
 Brief quizzes may also be given during some class periods, possibly without prior notice. The overall quiz score will count as 10% of the course grade.
 
 There will be no make-up exams or quizzes. In order to allow for unexpected events, I will drop each student's lowest quiz score.
 
 <h4> Participation </h4>
-Showing up to class and without engaging does not count as participating. This class is hard for a lot of folks, but engaging with the material and putting in hard work might help round your grade up from, for example, a B to B+, or A- to A. However, I won't round a B+ to A- based on participation. Moreover, engaging with the material is the best way to actually learn it (what we're all here for!)
+Showing up to class and without engaging does not count as participating. This class is hard for a lot of folks, but engaging with the material and putting in hard work might help round your grade up from, for example, a B to B+, or A- to A. Moreover, engaging with the material is the best way to actually learn it (what we're all here for!)
 
 In lieu of a hard participation grade, I ask that you write a one-to-two sentence summary of the class by noon the following day, and ask any questions about concepts you didn't fully understand. We will spend the first few minutes of the following class recapping and answering these questions.
 
@@ -122,6 +122,8 @@ In order to advance Boston College’s goal of creating a community in which eve
 
 A note on cell phones, texting, and checking one’s email during class: Research has shown us that even having our cell phones on the table in front of us diminishes our ability to learn well; further, taking notes via computer diminishes one’s ability to process information. Checking texts, emails, and messages is also unprofessional and disrespectful to our class community. Please turn off your phone, email, and computer during class; I will do so as well. I appreciate your cooperation with this important aspect of creating a class of which we all want to be a part. If there is a one-time exception (e.g., waiting on news for a family event), please let me know and I will generally be okay with making an exception. 
 
-On generative AI: Think of GenAI models like an electric bike. While they have their place and can help cyclists with active recovery, no one will become an elite road cyclist by solely riding an e-bike. In the same way, a LLM doing your homework for you will not help you become a better computer scientist. (Analogy courtesy of Bo Waggoner.) With that said, BC does have a Microsoft Copilot license to make LLMs available to you.
+On generative AI: Think of GenAI models like an electric bike. While they have their place and can help cyclists with active recovery, no one will become an elite road cyclist by solely riding an e-bike. In the same way, a LLM doing your homework for you will not help you become a better computer scientist. (Analogy courtesy of Bo Waggoner.) 
+
+With that said, BC does have a Microsoft Copilot license to make LLMs available to you.
 
 
