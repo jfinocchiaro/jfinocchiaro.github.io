@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Sanket](https://sanketkshah.github.io), [Milind](https://teamcore.seas.harvard.edu/tambe/), and I have a preprint on the relationship between loss function choice and $\mathcal{H}$-calibration on [arXiv](https://arxiv.org/abs/2502.19522).
+[Sanket](https://sanketkshah.github.io), [Milind](https://teamcore.seas.harvard.edu/tambe/), and I have a preprint on the relationship between loss function choice and $$\mathcal{H}$$-calibration on [arXiv](https://arxiv.org/abs/2502.19522).
