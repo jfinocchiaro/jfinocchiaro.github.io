@@ -21,7 +21,6 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Jessie! (Pronouns: she/her; pronounced: Jeh-see Fin-uh-car-oh)
 
-**I am looking for a postdoc for Fall 25. Please send me an email if you are interested with a research statement and CV**
 
 I am an Assistant Professor of Computer Science at [Boston College](https://www.bc.edu).
 Previously, I was a [National Science Foundation Mathematical Sciences Postdoctoral Research Fellow](https://nsf.gov/awardsearch/showAward?AWD_ID=2202898&HistoricalAwards=false) at Harvard University, hosted by [Dr. Yiling Chen](https://yiling.seas.harvard.edu/) and fellow of the Center for Research on Computation and Society ([CRCS](https://crcs.seas.harvard.edu)).
