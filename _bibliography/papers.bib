@@ -261,11 +261,23 @@ n agents, who express their cardinal utilities over the items. The designer aims
 We conduct a theoretical examination of this problem and show that there can be large gains in social welfare if the designer uses this richer inequality-aware preference model, instead of the standard inequality-agnostic preference model. Further, if we take the standard inequality-agnostic welfare as the benchmark, we show that the relative loss of welfare can be tightly bounded--shown to be independent of the number of agents and linear in the level of inequality aversion. With further assumptions on the preferences, we provide strictly tighter, distribution-free, and parametric bounds on the loss of welfare. We also discuss the worst-case drop in inequality-agnostic utility an agent might incur as a consequence of a designer allocating items using the inequality-averse preferences. We conclude with a discussion on possible designs to elicit the preferences of strategic agents over the goods and fairness. Taken together, our results argue for potentially large gains that can be obtained from using the richer social preference model and demonstrate the relatively minor losses from using the standard model, highlighting a promising avenue for using preference elicitation to empower participants to influence the overall objective function.}
 }
 ,
-@article{chen204robustness,
-  title={Robustness of voting mechanisms to external information in expectation},
+@article{chen2025robustness,
+  title={Robustness of voting mechanisms to external information},
   author={Chen, Yiling and Finocchiaro, Jessie},
-  year={2024},
+  year={2025},
+  booktitle={Symposium on Algorithmic Game Theory},
   arxiv={2404.07818},
   bibtex_show={True},
   abstract={Analyses of voting algorithms often overlook informational externalities shaping individual votes. For example, pre-polling information often skews voters towards candidates who may not be their top choice, but who they believe would be a worthwhile recipient of their vote. In this work, we aim to understand the role of external information in voting outcomes. We study this by analyzing (1) the probability that voting outcomes align with external information, and (2) the effect of external information on the total utility across voters, or social welfare. In practice, voting mechanisms elicit coarse information about voter utilities, such as ordinal preferences, which initially prevents us from directly analyzing the effect of informational externalities with standard voting mechanisms. To overcome this, we present an intermediary mechanism for learning how preferences change with external information which does not require eliciting full cardinal preferences. With this tool in hand, we find that voting mechanisms are generally more likely to select the alternative most favored by the external information, and when external information reflects the population's true preferences, social welfare increases in expectation.}
+}
+,
+@misc{finocchiaro2025structuredpredictionabstentionlovasz,
+      title={Structured Prediction with Abstention via the Lov\'asz Hinge}, 
+      author={Jessie Finocchiaro and Rafael Frongillo and Enrique Nueve},
+      year={2025},
+      eprint={2505.06446},
+      bibtex_show={True},
+      url={https://arxiv.org/abs/2505.06446},
+      abstract={The Lovász hinge is a convex loss function proposed for binary structured classification, in which k related binary predictions jointly evaluated by a submodular function. Despite its prevalence in image segmentation and related tasks, the consistency of the Lovász hinge has remained open. We show that the Lovász hinge is inconsistent with its desired target unless the set function used for evaluation is modular. Leveraging the embedding framework of Finocchiaro et al. (2024), we find the target loss for which the Lovász hinge is consistent. This target, which we call the structured abstain problem, is a variant of selective classification for structured prediction that allows one to abstain on any subset of the k binary predictions. We derive a family of link functions, each of which is simultaneously consistent for all polymatroids, a subset of submodular set functions. We then give sufficient conditions on the polymatroid for the structured abstain problem to be tightly embedded by the Lovász hinge, meaning no target prediction is redundant. We experimentally demonstrate the potential of the structured abstain problem for interpretability in structured classification tasks. Finally, for the multiclass setting, we show that one can combine the binary encoding construction of Ramaswamy et al. (2018) with our link construction to achieve an efficient consistent surrogate for a natural multiclass generalization of the structured abstain problem.}
+       
 }
