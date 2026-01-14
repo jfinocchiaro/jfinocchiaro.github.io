@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '(Personal) Undergraduate research expectations'
-date: 2025-06-101
+date: 2025-06-01
 description: For the sake of transparency, here are the expectations I share with my understaduate research assistants
 tags: 
 categories: academic
