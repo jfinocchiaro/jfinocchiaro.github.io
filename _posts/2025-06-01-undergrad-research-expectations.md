@@ -26,7 +26,7 @@ I’ll try to give ballparks on different “themes” of work, though this migh
 * _25% implementing/writing (code, theorems, etc.)._ While we will spend most of our time trying to get a good sense of what's going on through examples, we will need to translate this into either a proof or proof of concept. As we know, examples aren't usually sufficient for proving ideas are true.
 
 ## Communication/Meetings
-We will have a weekly group meeting and a standing individual meeting once per week for up to an hour. If you feel like you're stuck for too long (~a day?), feel free to swing by my office and I'm happy to meet with you if I'm free. If I’m not free at that moment, feel free to schedule a time to meet here. Your labmates might also be a great resource if you get stuck. You’ll all be able to learn from each other.
+We will have a weekly group meeting and a standing individual meeting once per week for up to an hour. If you feel like you're stuck for too long (~a day?), feel free to swing by my office and I'm happy to meet with you if I'm free. If I'm not free at that moment, feel free to schedule a time to meet here. Your labmates might also be a great resource if you get stuck. You'll all be able to learn from each other.
 
 For informal, quick communication, let's use Zulip. It's basically Slack, but with longer memory and better typesetting for math. I'll make a channel per project so we can communicate on there. 
 
