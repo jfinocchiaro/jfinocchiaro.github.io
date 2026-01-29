@@ -282,3 +282,15 @@ We conduct a theoretical examination of this problem and show that there can be 
       abstract={The Lovász hinge is a convex loss function proposed for binary structured classification, in which k related binary predictions jointly evaluated by a submodular function. Despite its prevalence in image segmentation and related tasks, the consistency of the Lovász hinge has remained open. We show that the Lovász hinge is inconsistent with its desired target unless the set function used for evaluation is modular. Leveraging the embedding framework of Finocchiaro et al. (2024), we find the target loss for which the Lovász hinge is consistent. This target, which we call the structured abstain problem, is a variant of selective classification for structured prediction that allows one to abstain on any subset of the k binary predictions. We derive a family of link functions, each of which is simultaneously consistent for all polymatroids, a subset of submodular set functions. We then give sufficient conditions on the polymatroid for the structured abstain problem to be tightly embedded by the Lovász hinge, meaning no target prediction is redundant. We experimentally demonstrate the potential of the structured abstain problem for interpretability in structured classification tasks. Finally, for the multiclass setting, we show that one can combine the binary encoding construction of Ramaswamy et al. (2018) with our link construction to achieve an efficient consistent surrogate for a natural multiclass generalization of the structured abstain problem.}
        
 }
+,
+
+@misc{derr2026sigecom,
+      title={SIGEcom Exchanges Annotated Reading List: Multiclass Calibration}, 
+      author={Rabanus Derr and Jessie Finocchiaro},
+      year={2026},
+      bibtex_show={True},
+      slides={calibration-hierarchies.pdf},
+      abstract={ML model evaluation often takes one of two main approaches: risk minimization, associated with “high accuracy” or calibration, meaning that predictions are “trustworthy” and can be interpreted from a probabilistic lens. There is an extensive line of work which has studied the relationship between risk minimization and calibration, mostly focusing on the binary outcome setting. Even in the binary setting, there are a variety of proposed calibration metrics which non-trivially interact. In the multiclass label setting, the choices to be made are even more complex and particularly there are different semantics for different notions. Here, we briefly present an annotated reading list reviewing some of the proposed definitions and their relationships.},
+      pdf={sigecom_multiclass_calibration.pdf}, 
+      url={https://www.sigecom.org/exchanges/volume_23/2/DERR.pdf}
+}
