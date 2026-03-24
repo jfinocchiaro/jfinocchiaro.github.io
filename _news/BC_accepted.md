@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have accepted a job offer at [Boston College](https://www.bc.edu). If you're a BC student interested in my work, please reach out! 
+I have accepted a job offer at [Boston College](https://www.bc.edu). If you're a BC student interested in my work, please reach out!

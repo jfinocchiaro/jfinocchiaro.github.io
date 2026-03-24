@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'What are office hours?'
+title: "What are office hours?"
 date: 2024-11-26
 description: A few hypotheticals about what office hours are for!
-tags: 
+tags:
 categories: academic
 featured: true
 related_posts: true
@@ -20,13 +20,13 @@ Most professors have office hours by appointment as well. For me personally, fee
 ## What's a good reason to come to office hours?
 
 While the 'canonical' reason to come to office hours is with homework questions, office hours are a good place to come and discuss...
-* your current class performance
-* how to get involved in research (and learn what research is!)
-* catching up from missed classes
-* professional/internship advice
-* clarify class expectations
 
+- your current class performance
+- how to get involved in research (and learn what research is!)
+- catching up from missed classes
+- professional/internship advice
+- clarify class expectations
 
 ## What are you doing if no one comes?
 
-Personally, I try to schedule activities that I "don't mind getting interrupted" during my office hours. If you come to office hours, you're not interrupting much. Recently, my free-office-hour hobbies have included reading new papers and practicing LeetCode problems. 
+Personally, I try to schedule activities that I "don't mind getting interrupted" during my office hours. If you come to office hours, you're not interrupting much. Recently, my free-office-hour hobbies have included reading new papers and practicing LeetCode problems.

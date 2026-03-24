@@ -21,7 +21,6 @@ pagination:
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
 
-
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
@@ -29,8 +28,6 @@ pagination:
     <h2>{{ site.blog_description }}</h2>
   </div>
   {% endif %}
-
-
 
 {% if site.display_tags or site.display_categories %}
 
@@ -58,7 +55,6 @@ pagination:
     </ul>
   </div>
   {% endif %}
-
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
