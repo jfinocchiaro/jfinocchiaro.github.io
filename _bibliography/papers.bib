@@ -1,19 +1,20 @@
 ---
 ---
 
-@misc{derr2025threetypesofcalibration,
+@article{derr2025threetypesofcalibration,
       title={Three Types of Calibration with Properties and their Semantic and Formal Relationships }, 
-      author={Rabanus Derr and Jessie Finocchiaro and Robert C. Williamson},
+      author={Derr, Rabanus and Finocchiaro, Jessie and Williamson, Robert C. },
       year={2025},
       bibtex_show={True},
+      journal={Journal of Machine Learning Research},
       slides={calibration-hierarchies.pdf},
       abstract={Fueled by discussions around "trustworthiness" and algorithmic fairness, calibration of predictive systems has regained scholars attention. The vanilla definition and understanding of calibration is, simply put, on all days on which the rain probability has been predicted to be p, the actual frequency of rain days was p. However, the increased attention has led to an immense variety of new notions of "calibration." Some of the notions are incomparable, serve different purposes, or imply each other. In this work, we provide two accounts which motivate calibration: self-realization of forecasted properties and precise estimation of incurred losses of the decision makers relying on forecasts. We substantiate the former via the reflection principle and the latter by actuarial fairness. For both accounts we formulate prototypical definitions via properties Γ of outcome distributions, e.g., the mean or median. The prototypical definition for self-realization, which we call Γ-calibration, is equivalent to a certain type of swap regret under certain conditions. These implications are strongly connected to the omniprediction learning paradigm. The prototypical definition for precise loss estimation is a modification of decision calibration adopted from Zhao et al. [73]. For binary outcome sets both prototypical definitions coincide under appropriate choices of reference properties. For higher-dimensional outcome sets, both prototypical definitions can be subsumed by a natural extension of the binary definition, called distribution calibration with respect to a property. We conclude by commenting on the role of groupings in both accounts of calibration often used to obtain multicalibration. In sum, this work provides a semantic map of calibration in order to navigate a fragmented terrain of notions and definitions.},
       arxiv={2504.18395}, 
 }
 ,
-@misc{shah2025analyzingcostsensitivesurrogatelosses,
+@article{shah2025analyzingcostsensitivesurrogatelosses,
       title={Analyzing Cost-Sensitive Surrogate Losses via H-calibration}, 
-      author={Sanket Shah and Milind Tambe and Jessie Finocchiaro},
+      author={Finocchiaro, Jessie and Shah, Sanket and Tambe, Milind},
       year={2025},
       bibtex_show={True},
       abstract={This paper aims to understand whether machine learning models should be trained using cost-sensitive surrogates or cost-agnostic ones (e.g., cross-entropy). Analyzing this question through the lens of H-calibration, we find that cost-sensitive surrogates can strictly outperform their cost-agnostic counterparts when learning small models under common distributional assumptions. Since these distributional assumptions are hard to verify in practice, we also show that cost-sensitive surrogates consistently outperform cost-agnostic surrogates on classification datasets from the UCI repository. Together, these make a strong case for using cost-sensitive surrogates in practice.},
@@ -266,7 +267,7 @@ We conduct a theoretical examination of this problem and show that there can be 
   title={Robustness of voting mechanisms to external information},
   author={Chen, Yiling and Finocchiaro, Jessie},
   year={2025},
-  booktitle={Symposium on Algorithmic Game Theory},
+  journal={Symposium on Algorithmic Game Theory},
   arxiv={2404.07818},
   bibtex_show={True},
   abstract={Analyses of voting algorithms often overlook informational externalities shaping individual votes. For example, pre-polling information often skews voters towards candidates who may not be their top choice, but who they believe would be a worthwhile recipient of their vote. In this work, we aim to understand the role of external information in voting outcomes. We study this by analyzing (1) the probability that voting outcomes align with external information, and (2) the effect of external information on the total utility across voters, or social welfare. In practice, voting mechanisms elicit coarse information about voter utilities, such as ordinal preferences, which initially prevents us from directly analyzing the effect of informational externalities with standard voting mechanisms. To overcome this, we present an intermediary mechanism for learning how preferences change with external information which does not require eliciting full cardinal preferences. With this tool in hand, we find that voting mechanisms are generally more likely to select the alternative most favored by the external information, and when external information reflects the population's true preferences, social welfare increases in expectation.}
