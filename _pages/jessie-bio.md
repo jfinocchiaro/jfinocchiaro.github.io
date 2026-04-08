@@ -2,4 +2,4 @@ Jessie Finocchiaro (she/her) is an assistant professor of Computer Science at Bo
 
 [Email](mailto:finocch@bc.edu)
 
-Phone: 617-552-3936
+Phone: 617-552-3965
