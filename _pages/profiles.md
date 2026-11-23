@@ -15,12 +15,22 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Room 528D</p>
-      <p>245 Beacon St</p>
+      <p>Hayden Hall</p>
       <p>Chestnut Hill, MA</p>
   - align: left
-    image: opie.jpg
-    content: opie.md
+    image: maneesha-papireddygari.jpg
+    content: maneesha.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Texas</p>
+      <p>Room 528I</p>
+      <p>Hayden Hall</p>
+      <p>Chestnut Hill, MA</p>
+  - align: right
+    image: jack-timmermans.jpg
+    content: jack.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: vic-ganson.jpg
+    content: vic.md
+    image_circular: true # crops the image to make it circular
 ---

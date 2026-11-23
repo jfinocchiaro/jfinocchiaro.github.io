@@ -1,0 +1,7 @@
+[Maneesha](https://papireddygari.github.io/) is a postdoctoral researcher at Boston College, hosted by myself and [Francisco](https://www.fmarmolejo.com/).
+
+While interested in several topics in theoretical EconCS, her research focuses on 1) eliciting and quantifying value of information and 2) Incentive design in blockchains.
+
+1) The information she particularly focuses on is an individual's private beliefs about a future event. Her research focuses on designing the right payments to incentivize truthful revelation of individual's beliefs. Occasionally these tools might be contracts, but more often are Scoring Rules. These tools give access to different types of elicitation mechanisms: Is the prediction one-shot or does it need to run as a continual market to incorporate potential information revealed over time (Prediction Markets)? Can the market maker bear the potential loss or does the mechanism need to be budget-balanced (wagering mechanisms)? Most of these mechanisms have several interesting research questions in them.
+
+2) She has been recently interested in various incentive problems in blockchain technologies. Her work provides insights into Liquidity Provisioning that Decentralized Finance deploys and also makes some of the Decentralized Finance algorithms computationally practical.
