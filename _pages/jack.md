@@ -1,0 +1,1 @@
+Jack is a senior undergraduate research assistant double majoring in Computer Science and Mathematics, working on bounding regret of quantized machine learning models. Jack is also currently applying for PhD programs spanning ML Theory and EconCS.

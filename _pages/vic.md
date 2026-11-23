@@ -1,0 +1,1 @@
+Vic is a junior undergraduate research assistant double majoring in Computer Science and Mathematics. He is currently working on calibration in machine learning, applied to structyred prediction tasks. See, for example, this [NeurIPS 2026 paper](http://arxiv.org/abs/2605.23017). Recently, Vic has specifically be focused on *biological* structured prediction tasks.
